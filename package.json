@@ -1,6 +1,6 @@
 {
   "name": "gep",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "General Expression Parser",
   "main": "dist/gep.js",
   "scripts": {
