@@ -1,3 +1,5 @@
+⚠️ Deprecated! It was renamed [jep](https://github.com/cnlon/jep)
+
 # General Expression Parser
 
 [![Build Status](https://travis-ci.org/cnlon/gep.svg?branch=master)](https://travis-ci.org/cnlon/gep)
