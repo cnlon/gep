@@ -1,4 +1,4 @@
-⚠️ Deprecated! It was renamed [jep](https://github.com/cnlon/jep)
+⚠️ Deprecated! It was renamed [JEP](https://github.com/cnlon/JEP)
 
 # General Expression Parser
 
